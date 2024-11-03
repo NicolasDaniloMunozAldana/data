@@ -1,7 +1,16 @@
-{"Messages": [{
-    "isRead": false,
-    "id": 4,
-    "senderUsername": "Nicolas",
-    "content": "si",
-    "receiverUsername": "Miranda"
-}]}
+{"Messages": [
+    {
+        "isRead": false,
+        "id": 4,
+        "senderUsername": "Nicolas",
+        "content": "si",
+        "receiverUsername": "Miranda"
+    },
+    {
+        "isRead": false,
+        "id": 2,
+        "senderUsername": "Nicolas",
+        "content": "como vas",
+        "receiverUsername": "Miranda"
+    }
+]}
