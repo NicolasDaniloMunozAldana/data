@@ -19,5 +19,12 @@
         "email": "juanmunozuptc@gmail.com",
         "username": "Juan",
         "postLiked": []
+    },
+    {
+        "password": "123456",
+        "role": "Estudiante",
+        "email": "munozaldananicolasdanilo@gmail.com",
+        "username": "Nicolasxd",
+        "postLiked": []
     }
 ]}
