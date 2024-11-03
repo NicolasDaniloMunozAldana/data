@@ -1,5 +1,7 @@
-{
-    "Messages": [
-        
-    ]
-}
+{"Messages": [{
+    "isRead": false,
+    "id": 1,
+    "senderUsername": "Miranda",
+    "content": "Como vas",
+    "receiverUsername": "Nicolas"
+}]}
