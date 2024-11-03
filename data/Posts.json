@@ -1,27 +1,15 @@
-{"Posts": [
-    {
-        "createdAt": "2024-11-02T01:28:30",
-        "comments": 2,
-        "role": "Estudiante",
-        "description": "La salud mental es fundamental para nuestro bienestar diario. Me gustaría crear un espacio seguro donde podamos compartir experiencias sobre cómo cuidamos nuestra mente y emociones 🧠💚 ¿Qué hábitos han incorporado en su rutina que les ayudan a sentirse mejor? ¿Cómo manejan el estrés y la ansiedad en su día a día? Sus experiencias pueden ayudar a otros miembros de la comunidad que estén atravesando situaciones similares.",
-        "id": 22680911,
-        "title": "¿Qué haces para cuidar tu salud mental?",
-        "users": [
-            "NicolasX",
-            "Nicolas"
-        ],
-        "likes": 2,
-        "username": "Nicolas"
-    },
-    {
-        "createdAt": "2024-11-03T05:20:32",
-        "comments": 0,
-        "role": "Estudiante",
-        "description": "xd",
-        "id": 31679208,
-        "title": "Prueba",
-        "users": [],
-        "likes": 0,
-        "username": "Juan"
-    }
-]}
+{"Posts": [{
+    "createdAt": "2024-11-02T01:28:30",
+    "comments": 2,
+    "role": "Estudiante",
+    "description": "La salud mental es fundamental para nuestro bienestar diario. Me gustaría crear un espacio seguro donde podamos compartir experiencias sobre cómo cuidamos nuestra mente y emociones 🧠💚 ¿Qué hábitos han incorporado en su rutina que les ayudan a sentirse mejor? ¿Cómo manejan el estrés y la ansiedad en su día a día? Sus experiencias pueden ayudar a otros miembros de la comunidad que estén atravesando situaciones similares.",
+    "id": 22680911,
+    "title": "¿Qué haces para cuidar tu salud mental?",
+    "users": [
+        "NicolasX",
+        "Nicolas",
+        "Juan"
+    ],
+    "likes": 3,
+    "username": "Nicolas"
+}]}
