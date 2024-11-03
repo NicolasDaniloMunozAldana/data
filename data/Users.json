@@ -1,0 +1,23 @@
+{"Users": [
+    {
+        "password": "123",
+        "role": "Estudiante",
+        "email": "nicolas.munoz01@uptc.edu.co",
+        "username": "Nicolas",
+        "postLiked": []
+    },
+    {
+        "password": "123",
+        "role": "Profesional",
+        "email": "miranda.cruz@gmail.com",
+        "username": "Miranda",
+        "postLiked": []
+    },
+    {
+        "password": "123456",
+        "role": "Profesional",
+        "email": "juanmunozuptc@gmail.com",
+        "username": "Juan",
+        "postLiked": []
+    }
+]}

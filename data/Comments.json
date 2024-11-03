@@ -1,0 +1,24 @@
+{
+    "Comments": [
+        {
+            "role": "Estudiante",
+            "comment": "Salgo con mis amigos",
+            "postId": 22680911,
+            "id": 36730835,
+            "users": [
+                "NicolasX"
+            ],
+            "username": "NicolasX",
+            "likes": 1
+        },
+        {
+            "role": "Estudiante",
+            "comment": "Visito a mi familia",
+            "postId": 22680911,
+            "id": 70479690,
+            "users": [],
+            "username": "NicolasX",
+            "likes": 0
+        }
+    ]
+}
