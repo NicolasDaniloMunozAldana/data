@@ -16,5 +16,10 @@
         "requests": [],
         "friends": ["Nicolas"],
         "username": "Juan"
+    },
+    {
+        "requests": [],
+        "friends": [],
+        "username": "Nicolasxd"
     }
 ]}
