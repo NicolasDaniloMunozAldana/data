@@ -12,5 +12,12 @@
         "senderUsername": "Nicolas",
         "content": "como vas",
         "receiverUsername": "Miranda"
+    },
+    {
+        "isRead": false,
+        "id": 3,
+        "senderUsername": "Nicolas",
+        "content": "Como estas",
+        "receiverUsername": "Juan"
     }
 ]}
