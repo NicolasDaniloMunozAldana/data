@@ -19,5 +19,12 @@
         "senderUsername": "Nicolas",
         "content": "Espero que bien",
         "receiverUsername": "Juan"
+    },
+    {
+        "isRead": false,
+        "id": 4,
+        "senderUsername": "Juan",
+        "content": "Si",
+        "receiverUsername": "Nicolas"
     }
 ]}
