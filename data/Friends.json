@@ -1,6 +1,6 @@
 {"Friends": [
     {
-        "requests": [],
+        "requests": ["Juan"],
         "friends": ["Miranda"],
         "username": "Nicolas"
     },
@@ -8,10 +8,5 @@
         "requests": [],
         "friends": ["Nicolas"],
         "username": "Miranda"
-    },
-    {
-        "requests": [],
-        "friends": [],
-        "username": "Juan"
     }
 ]}
