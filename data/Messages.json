@@ -26,5 +26,12 @@
         "senderUsername": "Juan",
         "content": "Si",
         "receiverUsername": "Nicolas"
+    },
+    {
+        "isRead": false,
+        "id": 5,
+        "senderUsername": "Nicolas",
+        "content": "AAAAAA",
+        "receiverUsername": "Miranda"
     }
 ]}
