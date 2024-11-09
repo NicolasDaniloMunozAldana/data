@@ -54,5 +54,12 @@
         "email": "pepitoperez8465@gmail.com",
         "username": "Anonimo",
         "postLiked": ["14493589"]
+    },
+    {
+        "password": "heidy123",
+        "role": "Joven",
+        "email": "plazasheidy463@gmail.com",
+        "username": "Heidy ",
+        "postLiked": []
     }
 ]}
