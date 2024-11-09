@@ -39,7 +39,7 @@
         "role": "Estudiante",
         "email": "haylin22valen@hotmail.com",
         "username": "hayvalg",
-        "postLiked": ["85499820"]
+        "postLiked": []
     },
     {
         "password": "Junior.2020",
@@ -54,12 +54,5 @@
         "email": "pepitoperez8465@gmail.com",
         "username": "Anonimo",
         "postLiked": ["14493589"]
-    },
-    {
-        "password": "heidy123",
-        "role": "Joven",
-        "email": "plazasheidy463@gmail.com",
-        "username": "Heidy ",
-        "postLiked": []
     }
 ]}
