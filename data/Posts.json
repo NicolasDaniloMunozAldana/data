@@ -16,13 +16,13 @@
     },
     {
         "createdAt": "2024-11-09T21:40:19",
-        "comments": 2,
+        "comments": 1,
         "role": "Estudiante",
         "description": "¿Como puedo canalizar mis emociones de una manera saludable?",
         "id": 85499820,
         "title": "Emociones",
-        "users": ["Nicolas"],
-        "likes": 1,
+        "users": [],
+        "likes": 0,
         "username": "hayvalg"
     },
     {
@@ -32,8 +32,8 @@
         "description": ".",
         "id": 90073880,
         "title": "¿Què estrategias puedo utilizar para resolver conflictos?",
-        "users": [],
-        "likes": 0,
+        "users": ["Nicolas"],
+        "likes": 1,
         "username": "hayvalg"
     },
     {
