@@ -33,5 +33,12 @@
         "email": "hayvalg0522@gmail.com",
         "username": "Hayvalg",
         "postLiked": []
+    },
+    {
+        "password": "132213",
+        "role": "Estudiante",
+        "email": "haylin22valen@hotmail.com",
+        "username": "hayvalg",
+        "postLiked": []
     }
 ]}
