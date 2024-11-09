@@ -16,5 +16,14 @@
         "users": [],
         "username": "NicolasX",
         "likes": 0
+    },
+    {
+        "role": "Estudiante",
+        "comment": "Puedes leer",
+        "postId": 85499820,
+        "id": 3579739,
+        "users": [],
+        "username": "hayvalg",
+        "likes": 0
     }
 ]}
