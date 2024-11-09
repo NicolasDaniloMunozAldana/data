@@ -57,5 +57,16 @@
         "users": [],
         "likes": 0,
         "username": "Anonimo"
+    },
+    {
+        "createdAt": "2024-11-09T23:28:20",
+        "comments": 0,
+        "role": "Joven",
+        "description": "¿Qué cosas puedo hacer para evitar sentirme tan agobiado por no sentirme cómodo en el como es mi cuerpo o mi apariencia física completa?",
+        "id": 21638489,
+        "title": "BODY",
+        "users": [],
+        "likes": 0,
+        "username": "Anonimo"
     }
 ]}
