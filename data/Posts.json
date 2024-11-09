@@ -21,8 +21,8 @@
         "description": "¿Como puedo canalizar mis emociones de una manera saludable?",
         "id": 85499820,
         "title": "Emociones",
-        "users": [],
-        "likes": 0,
+        "users": ["Nicolas"],
+        "likes": 1,
         "username": "hayvalg"
     },
     {
