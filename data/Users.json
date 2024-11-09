@@ -40,5 +40,12 @@
         "email": "haylin22valen@hotmail.com",
         "username": "hayvalg",
         "postLiked": ["85499820"]
+    },
+    {
+        "password": "Junior.2020",
+        "role": "Estudiante",
+        "email": "jsilvacarvajal320@gmail.com",
+        "username": "Jonathan ",
+        "postLiked": []
     }
 ]}
