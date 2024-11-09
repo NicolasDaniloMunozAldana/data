@@ -35,5 +35,16 @@
         "users": [],
         "likes": 0,
         "username": "hayvalg"
+    },
+    {
+        "createdAt": "2024-11-09T22:14:02",
+        "comments": 0,
+        "role": "Estudiante",
+        "description": "A veces las problematicas de mi casa, generan que me de ansiedad por el consumo de sustancias ¿Qué puedo hacer para controlar eso?",
+        "id": 14493589,
+        "title": "Consumo de spa",
+        "users": [],
+        "likes": 0,
+        "username": "hayvalg"
     }
 ]}
