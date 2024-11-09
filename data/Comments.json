@@ -25,5 +25,14 @@
         "users": [],
         "username": "hayvalg",
         "likes": 0
+    },
+    {
+        "role": "Estudiante",
+        "comment": "Es importante recordar que no existen emociones \"buenas\" o \"malas\" - todas son señales valiosas de nuestro mundo interior que merecen ser escuchadas y comprendidas. Cuando te sientas abrumado por tus emociones, el primer paso es permitirte sentirlas sin juicios, como un observador compasivo de tu propia experiencia.",
+        "postId": 85499820,
+        "id": 73243295,
+        "users": [],
+        "username": "Nicolas",
+        "likes": 0
     }
 ]}
