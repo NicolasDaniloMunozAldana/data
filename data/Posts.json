@@ -24,5 +24,16 @@
         "users": [],
         "likes": 0,
         "username": "hayvalg"
+    },
+    {
+        "createdAt": "2024-11-09T21:46:59",
+        "comments": 0,
+        "role": "Estudiante",
+        "description": ".",
+        "id": 90073880,
+        "title": "¿Què estrategias puedo utilizar para resolver conflictos?",
+        "users": [],
+        "likes": 0,
+        "username": "hayvalg"
     }
 ]}
