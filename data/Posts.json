@@ -52,13 +52,24 @@
     },
     {
         "createdAt": "2024-11-09T23:26:33",
-        "comments": 1,
+        "comments": 0,
         "role": "Joven",
         "description": "¿Cómo podría evitar posponer todas las cosas que tengo pendientes? Me es bastante complicado el planear cosas que quisiera hacer pero no tengo el suficiente impulso de hacerlas y solo se posponen y se posponen.",
         "id": 35311787,
         "title": "PROCRASTINACIÓN",
-        "users": ["xM4y_x"],
-        "likes": 1,
+        "users": [],
+        "likes": 0,
         "username": "Anonimo"
+    },
+    {
+        "createdAt": "2024-11-10T01:44:23",
+        "comments": 0,
+        "role": "Estudiante",
+        "description": "No entiendo porque a veces me siento insuficiente, o menos que las demás personas, o siento que no le importo a nadie, pero no tengo una razón del porque decir eso, solamente es un sentimiento, pero no puedo controlarlo, y a veces me da ira conmigo por sentirme así 😣",
+        "id": 82258309,
+        "title": "Cómo puedo controlar un sentimiento? ❤️\u200d🩹",
+        "users": [],
+        "likes": 0,
+        "username": "Leidy"
     }
 ]}
