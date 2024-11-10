@@ -52,24 +52,16 @@
     },
     {
         "createdAt": "2024-11-09T23:26:33",
-        "comments": 0,
+        "comments": 1,
         "role": "Joven",
         "description": "¿Cómo podría evitar posponer todas las cosas que tengo pendientes? Me es bastante complicado el planear cosas que quisiera hacer pero no tengo el suficiente impulso de hacerlas y solo se posponen y se posponen.",
         "id": 35311787,
         "title": "PROCRASTINACIÓN",
-        "users": [],
-        "likes": 0,
+        "users": [
+            "xM4y_x",
+            "Arles"
+        ],
+        "likes": 2,
         "username": "Anonimo"
-    },
-    {
-        "createdAt": "2024-11-10T01:41:16",
-        "comments": 0,
-        "role": "Estudiante",
-        "description": "En ocasiones son explosiva y termino diciendo cosas que no quiero y hago sentir mal a los demás. Muchas veces peleo con lo hermana y con mi hermano y les termino diciendo cosas muy feas y los hago sentir mal y después me arrepiento pero no sé cómo disculparme ",
-        "id": 81592129,
-        "title": "¿Cómo puedo controlar mis emociones? ",
-        "users": [],
-        "likes": 0,
-        "username": "Lulum"
     }
 ]}
