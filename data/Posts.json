@@ -60,5 +60,16 @@
         "users": [],
         "likes": 0,
         "username": "Anonimo"
+    },
+    {
+        "createdAt": "2024-11-10T01:41:16",
+        "comments": 0,
+        "role": "Estudiante",
+        "description": "En ocasiones son explosiva y termino diciendo cosas que no quiero y hago sentir mal a los demás. Muchas veces peleo con lo hermana y con mi hermano y les termino diciendo cosas muy feas y los hago sentir mal y después me arrepiento pero no sé cómo disculparme ",
+        "id": 81592129,
+        "title": "¿Cómo puedo controlar mis emociones? ",
+        "users": [],
+        "likes": 0,
+        "username": "Lulum"
     }
 ]}
