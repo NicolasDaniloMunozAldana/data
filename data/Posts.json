@@ -82,5 +82,16 @@
         "users": ["Arles"],
         "likes": 1,
         "username": "Lau"
+    },
+    {
+        "createdAt": "2024-11-10T16:57:04",
+        "comments": 0,
+        "role": "Joven",
+        "description": "Cómo saber cuándo es el momento para pedir ayuda?",
+        "id": 6538875,
+        "title": "Cómo saber cuándo es el momento para pedir ayuda?",
+        "users": [],
+        "likes": 0,
+        "username": "Cristopher Gomez"
     }
 ]}
