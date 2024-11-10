@@ -60,5 +60,16 @@
         "users": [],
         "likes": 0,
         "username": "Anonimo"
+    },
+    {
+        "createdAt": "2024-11-10T01:34:05",
+        "comments": 0,
+        "role": "Estudiante",
+        "description": "\r\n",
+        "id": 48805985,
+        "title": "Traumas psicológicos 😖",
+        "users": [],
+        "likes": 0,
+        "username": "Leidy"
     }
 ]}
