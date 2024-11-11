@@ -68,8 +68,11 @@
         "description": "No entiendo porque a veces me siento insuficiente, o menos que las demás personas, o siento que no le importo a nadie, pero no tengo una razón del porque decir eso, solamente es un sentimiento, pero no puedo controlarlo, y a veces me da ira conmigo por sentirme así 😣",
         "id": 82258309,
         "title": "Cómo puedo controlar un sentimiento? ❤️\u200d🩹",
-        "users": ["hayvalg"],
-        "likes": 1,
+        "users": [
+            "hayvalg",
+            "Ada"
+        ],
+        "likes": 2,
         "username": "Leidy"
     },
     {
@@ -93,16 +96,5 @@
         "users": [],
         "likes": 0,
         "username": "Cristopher Gomez"
-    },
-    {
-        "createdAt": "2024-11-11T02:54:14",
-        "comments": 0,
-        "role": "Estudiante",
-        "description": "¿Qué puedo hacer para tener tiempo suficiente?",
-        "id": 85076929,
-        "title": "Tiempo",
-        "users": [],
-        "likes": 0,
-        "username": "hayvalg"
     }
 ]}
