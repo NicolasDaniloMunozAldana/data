@@ -98,5 +98,12 @@
         "email": "kristelldaniela2006@gmail.com",
         "username": "Daniela ",
         "postLiked": []
+    },
+    {
+        "password": "123456",
+        "role": "Profesional",
+        "email": "liligu_29@hotmail.com",
+        "username": "Beyerl",
+        "postLiked": []
     }
 ]}
