@@ -90,19 +90,8 @@
         "description": "Cómo saber cuándo es el momento para pedir ayuda?",
         "id": 6538875,
         "title": "Cómo saber cuándo es el momento para pedir ayuda?",
-        "users": [],
-        "likes": 0,
+        "users": ["hayvalg"],
+        "likes": 1,
         "username": "Cristopher Gomez"
-    },
-    {
-        "createdAt": "2024-11-11T02:54:54",
-        "comments": 0,
-        "role": "Estudiante",
-        "description": "Me siento inseguro, no se si soy suficiente",
-        "id": 63386997,
-        "title": "Satisfacción",
-        "users": [],
-        "likes": 0,
-        "username": "hayvalg"
     }
 ]}
