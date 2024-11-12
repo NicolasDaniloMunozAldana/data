@@ -93,5 +93,16 @@
         "users": [],
         "likes": 0,
         "username": "Cristopher Gomez"
+    },
+    {
+        "createdAt": "2024-11-12T23:27:19",
+        "comments": 0,
+        "role": "Estudiante",
+        "description": "\r\n",
+        "id": 27932255,
+        "title": "¿Qué hacen cuando están pasando por un momento malo?",
+        "users": [],
+        "likes": 0,
+        "username": "Sara"
     }
 ]}
