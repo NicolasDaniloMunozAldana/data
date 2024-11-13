@@ -9,10 +9,9 @@
         "users": [
             "NicolasX",
             "Juan",
-            "Nicolas",
-            "dmbm"
+            "Nicolas"
         ],
-        "likes": 4,
+        "likes": 3,
         "username": "Nicolas"
     },
     {
@@ -97,7 +96,7 @@
     },
     {
         "createdAt": "2024-11-12T23:27:19",
-        "comments": 0,
+        "comments": 1,
         "role": "Estudiante",
         "description": "\r\n",
         "id": 27932255,
