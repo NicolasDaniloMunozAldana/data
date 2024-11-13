@@ -40,9 +40,9 @@
         "comment": "Primero que todo, quiero que sepas que es completamente normal sentirte ansioso@ en esta situación. Es admirable que reconozcas cómo te estás sintiendo y que busques maneras de lidiar con ello ^^. Si te sientes cómodo@, podrías considerar hablar con un profesional, como un psicólogo o consejero, que pueda ayudarte a explorar alternativas y herramientas para manejar la ansiedad sin tener que recurrir a sustancias. También hay muchas otras formas de expresar lo que sientes y de liberar tensiones, como pasar tiempo con amigos, disfrutar de un buen libro o serie, hacer ejercicio, o incluso probar alguna actividad creativa que te llame la atención.\r\n\r\nA veces, el proceso de encontrar lo que realmente te ayuda puede llevar tiempo, y eso está bien :D. Lo importante es que estás intentando, y eso ya es un gran paso. Así que, independientemente de cuánto te tome, recuerda ser paciente contigo mismo@ y darte crédito por cada esfuerzo que haces. Confío en que poco a poco vas a encontrar algo que te haga sentir mejor y más libre en este camino<3.",
         "postId": 14493589,
         "id": 21462147,
-        "users": [],
+        "users": ["dmbm"],
         "username": "xM4y_x",
-        "likes": 0
+        "likes": 1
     },
     {
         "role": "Estudiante",
@@ -87,15 +87,6 @@
         "id": 40090765,
         "users": [],
         "username": "hayvalg",
-        "likes": 0
-    },
-    {
-        "role": "Estudiante",
-        "comment": "dependiendo de la situación medito, me abrazo y me entiendo a mí mismo ",
-        "postId": 27932255,
-        "id": 23736882,
-        "users": [],
-        "username": "dmbm",
         "likes": 0
     }
 ]}
