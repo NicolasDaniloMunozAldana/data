@@ -93,13 +93,13 @@
         "description": "Cómo saber cuándo es el momento para pedir ayuda?",
         "id": 6538875,
         "title": "Cómo saber cuándo es el momento para pedir ayuda?",
-        "users": [],
-        "likes": 0,
+        "users": ["Sara"],
+        "likes": 1,
         "username": "Cristopher Gomez"
     },
     {
         "createdAt": "2024-11-12T23:27:19",
-        "comments": 1,
+        "comments": 0,
         "role": "Estudiante",
         "description": "\r\n",
         "id": 27932255,
