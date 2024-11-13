@@ -126,5 +126,12 @@
         "email": "sara.diazv@utadeo.edu.co",
         "username": "Sara",
         "postLiked": []
+    },
+    {
+        "password": "hastaquequemeelsol",
+        "role": "Estudiante",
+        "email": "ferdumbm@gmail.com",
+        "username": "dmbm",
+        "postLiked": []
     }
 ]}
