@@ -1,10 +1,7 @@
 {"Friends": [
     {
         "requests": [],
-        "friends": [
-            "Miranda",
-            "Juan"
-        ],
+        "friends": ["Miranda"],
         "username": "Nicolas"
     },
     {
@@ -14,7 +11,7 @@
     },
     {
         "requests": [],
-        "friends": ["Nicolas"],
+        "friends": [],
         "username": "Juan"
     },
     {
