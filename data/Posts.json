@@ -116,8 +116,8 @@
         "description": "Que la pase bien",
         "id": 54219431,
         "title": "Feliz cumpleaños Yader",
-        "users": [],
-        "likes": 0,
+        "users": ["Nicolas"],
+        "likes": 1,
         "username": "Nicolas"
     }
 ]}
